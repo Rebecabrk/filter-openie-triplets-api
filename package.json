@@ -1,0 +1,23 @@
+{
+  "name": "filter-openie-triplets-api",
+  "version": "1.0.0",
+  "description": "api which filters ner ad tf idf triples",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebecabrk/filter-openie-triplets-api.git"
+  },
+  "author": "Rebeca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rebecabrk/filter-openie-triplets-api/issues"
+  },
+  "homepage": "https://github.com/Rebecabrk/filter-openie-triplets-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
